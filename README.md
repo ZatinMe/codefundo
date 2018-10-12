@@ -1,7 +1,7 @@
 # codefundo
 Project Intended to Predict Natural disaster for Microsoft CodeFunDo++
 
-# flood prediction using satellite data and machine learning
+# Flood prediction using satellite data and machine learning
 
 Floods are one of the most frequent and severe natural disasters. In addition to causing a huge economic damage (to the human property) they cause a substantial loss of human lives.
 
